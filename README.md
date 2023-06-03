@@ -4,7 +4,7 @@ analogia dos correios
 
 git  add -->  Adiciona  a  mercadoria "ARQUIVO" dentro da caixa
 
-git commit -m "COMENTARIO" -->  Fecha e sela a 
+git commit -m "COMENTARIO" -->  Fecha e sela a caixa
 
 git push --> Responsavel pela entrega
 
